@@ -1,0 +1,28 @@
+{
+    margin: 0;
+    padding: 0;  
+}
+
+body{
+    font-size: 100%;
+    font-family: Arial;
+    background: blue; 
+}
+
+
+#fire{
+    color: white;
+    background: red;
+}
+
+
+#water{
+    color: white;
+    background: skyblue;
+}
+
+
+#grass{
+    color: white;
+    background: green;
+}
